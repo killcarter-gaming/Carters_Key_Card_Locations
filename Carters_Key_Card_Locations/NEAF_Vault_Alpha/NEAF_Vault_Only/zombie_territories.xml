@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+<!-- NEAF_Vaults_Zombies -->
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="11949.829102" z="12520.228516" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="11964.331055" z="12512.917969" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="11939.030273" z="12494.058594" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="11954.102539" z="12486.950195" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="11999.367188" z="12501.152344" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12059.330078" z="12469.579102" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12055.883789" z="12470.789063" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12076.869141" z="12452.907227" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12114.546875" z="12421.185547" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12117.781250" z="12419.864258" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="12121.538086" z="12418.092773" r="15"/>
+    </territory>
+</territory-type>

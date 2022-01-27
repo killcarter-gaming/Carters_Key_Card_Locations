@@ -1,0 +1,19 @@
+<!-- NWAF_Vault_Zombies -->
+    <territory color="1124502272">
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4397.374512" z="10253.518555" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4371.605469" z="10257.864258" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4369.919434" z="10283.725586" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4369.431641" z="10312.699219" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4327.019531" z="10350.995117" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4322.517090" z="10241.929688" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4303.398438" z="10260.520508" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4286.074219" z="10279.430664" r="15"/>
+        <zone name="InfectedArmy" smin="1" smax="3" dmin="4" dmax="6" x="4271.617676" z="10304.745117" r="15"/>
+    </territory>
+    <territory color="1124502272">
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="4199.390625" z="10319.141602" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="4187.707520" z="10328.857422" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="4174.926758" z="10350.290039" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="4165.436523" z="10359.081055" r="15"/>
+        <zone name="InfectedArmyHard" smin="1" smax="3" dmin="4" dmax="6" x="4195.565918" z="10303.206055" r="15"/>
+    </territory>
