@@ -1,0 +1,29 @@
+
+       KEYS        COLORS       LOCATION
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key1"  ,   BLACK    ,   CARTER SPECIAL/ Prepper's go-bag, Found within the random houses scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key2"  ,   GREY     ,   POLICE CRATE'S/ Found within the Police stations scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key3"  ,   BROWN    ,   AMMO CRATE'S/ Found within the military locations scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key4"  ,   GREEN    ,   MILITARY CRATE'S/ Found within the military locations scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key6"  ,   YELLOW   ,   FOOD CRATE'S/ Found within the grocery stores and diners scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key7"  ,   RED      ,   MEDICAL CRATE'S/ Found within the Hospitals and clinics scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key8"  ,   BLUE     ,   TOOLS CRATE'S/ Found within hardware stores and also within the construction sites scattered throughout the map!
+-------------------------------------------------------------------------------------------------------------------------------------------------
+    "CJ_Key12" ,   GOLD     ,   CARTER SPECIAL/ Found within the military locations scattered throughout the map!
+	
+	These keys are needed to open the Gold Lootchests which spawn within the special medical facilitity locations that i have built for the Chernaurus map.
+	within these chests there is a small chance for a Vault location key to spawn or possibly two! with these vault keys you can open the locked doors 
+	which allow you to gain access to the Vault locations that i have built for the map! within these locations there is a lot of lootchests that spawn.
+	the task is simply, you have limited time to loot the location before the door locks you inside with no way to exit. the keys can only be used from 
+	the outside so unless you have a friend to open it from the outside for you then you may be there for some time! 
+	i have added zombies to the locations and also created new mapgrouppos.xml files with the locations included for those of you who may have trouble doing so!
+	all the data for them can be found within my githud at "https://github.com/killcarter-gaming"
+	i hope you all like these builds and have fun with your friends raiding them for loot!!
+	Carter.
+-------------------------------------------------------------------------------------------------------------------------------------------------
